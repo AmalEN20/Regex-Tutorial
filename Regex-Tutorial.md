@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial
 
 Regex is short for regular expression which is a string of text to help search for or sometimes vaildate input text. It can be used in varies programming language such as Javascript and search engines such as Ctrl+F function in Google Docs. In this explaining a "simple" regex that matches for a any vaild email.
 
